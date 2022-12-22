@@ -1,9 +1,0 @@
-{
-    "files.exclude": {
-        "": true
-    },
-    "cSpell.words": [
-        "contenteditable",
-        "webhint"
-    ]
-}
